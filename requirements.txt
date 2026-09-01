@@ -1,0 +1,18 @@
+# Core HTTP & parsing
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+lxml>=5.2.2
+urllib3>=2.2.0
+
+# Data processing & storage
+pandas>=2.2.2
+openpyxl>=3.1.5
+
+# Visualization
+matplotlib>=3.9.0
+
+# UI
+streamlit>=1.36.0
+
+# Utilities
+python-dateutil>=2.9.0.post0
